@@ -47,7 +47,6 @@ Introducing the **Alpha Cheat for Genshin Impact**, our latest private tool desi
 </div>
 
 <div align="center">
-    <h2 style="color:#32CD32;">📸 Screenshots</h2>
     <img src="https://github.com/user-attachments/assets/2255b070-01f1-4dc5-b467-9249fd947725" alt="Alpha Cheat Screenshot 1" width="80%" style="border:2px solid #FF4500;border-radius:10px;box-shadow:5px 5px 15px rgba(0,0,0,0.5);margin-bottom:20px;">
     <img src="https://github.com/user-attachments/assets/d984c1c5-6671-4db2-b37c-4a8dcbb4ccdc" alt="Alpha Cheat Screenshot 2" width="80%" style="border:2px solid #4682B4;border-radius:10px;box-shadow:5px 5px 15px rgba(0,0,0,0.5);margin-bottom:20px;">
 </div>
